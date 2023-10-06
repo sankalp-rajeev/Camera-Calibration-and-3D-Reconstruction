@@ -15,16 +15,16 @@ This project was an integral part of my computer vision course at Carnegie Mello
 
 ### Part 1: 3D Reconstruction 
 
-- **Eight Point Algorithm **
+- **Eight Point Algorithm**
   - Delved into the Eight-Point Algorithm to grasp its essence and its role in estimating the fundamental matrix, a representation of the epipolar geometry between two images.
 
-- **Essential Matrix **
+- **Essential Matrix**
   - Gained insights into the Essential Matrix, its relationship with the fundamental matrix, and its crucial role in describing geometric information between two calibrated camera views.
 
-- **Epipolar Correspondence **
+- **Epipolar Correspondence**
   - Engaged with the concept of epipolar correspondence, learning how corresponding points in stereo images relate and the importance of this relationship in stereo vision.
 
-- **Triangulation **
+- **Triangulation**
   - Implemented triangulation techniques to determine the 3D coordinates of points in space, given their projections on two distinct images.
 
 ### Part 2: Camera Calibration and 3D Reconstruction
